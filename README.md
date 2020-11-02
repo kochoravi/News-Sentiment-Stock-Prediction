@@ -1,6 +1,5 @@
 # Stock Market Prediction using news sentiment and LSTM
 
-Kindly refer to the StockPredictionModelv3.ipynb file for the detailed explaination and results
 
 ## Overview:
 
@@ -11,7 +10,7 @@ Data Sets:
 Reuters Finacial News Data Set: https://github.com/duynht/financial-news-dataset
 Dow Jones Industrial average data from yfinance
 
-# The notebook is briefly summarized as follows:
+## The notebook is briefly summarized as follows:
 
 Financial news-data prepration and sentiment analysis
 
