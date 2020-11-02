@@ -1,4 +1,4 @@
-# Stock Market Prediction using news sentiment and LSTM
+# Stock Market Prediction using Financial News Sentiment and LSTM
 
 
 ## Overview:
@@ -10,9 +10,9 @@ Data Sets:
 Reuters Finacial News Data Set: https://github.com/duynht/financial-news-dataset
 Dow Jones Industrial average data from yfinance
 
-## The notebook is briefly summarized as follows:
+## Brief Summery:
 
-Financial news-data prepration and sentiment analysis
+Financial news data prepration and sentiment analysis
 
 Clean, standardize and merge historical data, merging news sentiment and price data
 
