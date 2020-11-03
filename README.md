@@ -10,11 +10,13 @@ Data Sets:
 Reuters Finacial News Data Set: https://github.com/duynht/financial-news-dataset
 Dow Jones Industrial average data from yfinance
 
+![plots](https://github.com/kochoravi/news-sentiment-stock-prediction/DJI-predict-plot.png)
+
 ## Brief Summery:
 
 Financial news data prepration and sentiment analysis
 
-Clean, standardize and merge historical data, merging news sentiment and price data
+Clean, standardize and merging financial news sentiment and DJI avg. price data
 
 Visualizing the news sentiment and the historical data
 
