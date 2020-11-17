@@ -14,8 +14,6 @@ Dow Jones Industrial average data from yfinance
 
 ![plots](https://github.com/kochoravi/news-sentiment-stock-prediction/blob/master/wc-topis-plot.png?raw=true)
 
-![plots](https://github.com/kochoravi/news-sentiment-stock-prediction/blob/master/model-performance-plot.png?raw=true)
-
 ## Summery:
 
 Financial news data prepration, topic modeling and sentiment analysis
